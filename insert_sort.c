@@ -8,5 +8,6 @@ int main(void){
     for(int i=0;i<len;i++)
         printf("%d ",arr[i]);
     putchar('\n');
+    
     return 0;
 }
